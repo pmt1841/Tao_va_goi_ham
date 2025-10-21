@@ -1,1 +1,1 @@
-Bootcamp Preparation 2.1 / 14. Hàm 1 / Tạo và gọi hàm
+Bootcamp Preparation 2.1 / 14. Hàm 1 / [Thực hành] Tạo và gọi hàm
